@@ -13,23 +13,28 @@ const Projects = () => {
             <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
                 <ProjectCard
                     src="/doodlejump.png"
-                    title="Modern Next.js Portfolio"
+                    title="Doodle Jump game"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    link="https://doodle-jump-game-vrff.vercel.app/"
                 />
+
                 <ProjectCard
                     src="/shopee-clone.png"
-                    title="Interactive Website Cards"
+                    title="Shopee Clone website"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    link="https://shopee-clone-one-psi.vercel.app/"
                 />
                 <ProjectCard
-                    src="/SpaceWebsite.png"
-                    title="Space Themed Website"
+                    src="/My-portfolio.png"
+                    title="My Portfolio Website"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    link="https://my-portfolio-blush-nine-89.vercel.app/"
                 />
                 <ProjectCard
                     src="/band-clone.png"
-                    title="Space Themed Website"
+                    title="The band Website"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    link="https://band-learn.vercel.app/"
                 />
             </div>
         </div>
